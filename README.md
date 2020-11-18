@@ -50,7 +50,7 @@ This components plots a bar chart showing users expenses based on categories:
 - [charts_flutter package](https://pub.dev/packages/charts_flutter)
 - [See chart Documentation for supported chart](https://google.github.io/charts/flutter/gallery.html)
 
-######
+## -------------------------------------------------
 
 A few resources to get you started if this is your first Flutter project:
 
