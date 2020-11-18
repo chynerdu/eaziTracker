@@ -1,8 +1,8 @@
 # eazytracker
 
-A demo flutter mobile application for tracking expenses.
+A demo mobile application built with flutter for tracking expenses.
 
-All Data in this project is hardcoded and not connected to any API endpoint
+All Data in this project are hardcoded. In an actual development environment it will be fetched from the server and stored in the appState, using Providers or Bloc for state management.
 
 ## Getting Started
 
@@ -10,7 +10,7 @@ APK can be located in
 
 - [https://drive.google.com/file/d/1L8P0re6u4gSbjEgqx1moEuT00OKISM6v/view?usp=sharing](https://drive.google.com/file/d/1L8P0re6u4gSbjEgqx1moEuT00OKISM6v/view?usp=sharing)
 
-Important Components
+### Important Components
 
 ## ExpenseGraphOverview
 
@@ -45,10 +45,12 @@ file located in lib/screens/budget.dart
 
 This component shows a list of user's budgets, and a bottomsheet to create new budget
 
-This components plots a bar showing users expenses based on categories:
+This components plots a bar chart showing users expenses based on categories:
 
 - [charts_flutter package](https://pub.dev/packages/charts_flutter)
 - [See chart Documentation for supported chart](https://google.github.io/charts/flutter/gallery.html)
+
+######
 
 A few resources to get you started if this is your first Flutter project:
 
