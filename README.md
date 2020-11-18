@@ -1,8 +1,8 @@
-# eazytracker
+# EaziTracker
 
 A demo mobile application built with flutter for tracking expenses.
 
-All Data in this project are hardcoded. In an actual development environment it will be fetched from the server and stored in the appState, using Providers or Bloc for state management.
+All data in this project are hardcoded. In an actual development environment it will be fetched from the server and stored in the app state, using Providers or Bloc for state management.
 
 ## Getting Started
 
